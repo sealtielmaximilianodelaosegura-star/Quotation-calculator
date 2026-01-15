@@ -1,60 +1,97 @@
-# 🧮 Interactive Web Calculator
+Copia y pega esto tal cual en README.md 👇
 
-An interactive and responsive web calculator built to demonstrate front-end logic, user interaction handling, and clean UI design.
+🧮 Quotation Calculator
 
-This project focuses on functionality, usability, and clean code structure.
+A clean, responsive quotation calculator built with HTML, CSS, and JavaScript, designed to help freelancers and small businesses quickly estimate project costs in a clear and professional way.
 
----
+🔗 Live Demo
+👉 https://sealtielmaximilianodelaosegura-star.github.io/quotation-calculator/
 
-## ✨ Features
+✨ Features
 
-- Basic arithmetic operations (addition, subtraction, multiplication, division)
-- Clear and intuitive interface
-- Responsive design for desktop and mobile
-- Keyboard and button input support
-- Real-time calculation display
-- Error handling (division by zero)
+📊 Real-time price calculation
 
----
+⚡ Fast and lightweight (no frameworks)
 
-## 🛠️ Built With
+🎨 Clean and modern UI
 
-- **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
+📱 Fully responsive (mobile-friendly)
 
-No external libraries or frameworks were used.
+🧠 Simple logic, easy to customize
 
----
+💼 Ideal for freelancers and service-based businesses
 
-## 🎯 Project Purpose
+🛠️ Built With
 
-This project was created to demonstrate:
+HTML5 – structure
 
-- JavaScript logic and state handling
-- Event-driven programming
-- UI/UX clarity
-- Clean and readable front-end code
+CSS3 – layout and styling
 
-It represents a common real-world component used in pricing tools, forms, and business applications.
+JavaScript (Vanilla) – logic and calculations
 
----
+No external libraries required.
 
-## 🚀 Live Demo
+🎯 Purpose of This Project
 
-👉 **https://sealtielmaximilianodelaosegura-star.github.io/uotation-calculator/**  
+This project was created as part of a personal portfolio to demonstrate:
+
+Front-end fundamentals
+
+JavaScript logic handling
+
+UI/UX clarity
+
+Practical, real-world problem solving
+
+It can be adapted for:
+
+Web agencies
+
+Freelancers
+
+Quotation systems
+
+Pricing estimators
+
+📸 Preview
+
+You can view the live version here:
+👉 https://sealtielmaximilianodelaosegura-star.github.io/quotation-calculator/
+
+🚀 How to Use
+
+Open the live demo
+
+Enter the required values
+
+The total quotation updates instantly
+
+To run locally:
+
+git clone https://github.com/SealtielMaximilianoDeLaOseGura-star/quotation-calculator.git
+cd quotation-calculator
+open index.html
 
 
----
+📈 Future Improvements
 
+Export quotation to PDF
 
-## 👤 Author
+Custom currency support
 
-Front-End Developer  
-Focused on building functional, user-friendly web interfaces.
+Dark mode
 
----
+Form validation
 
-## 📄 License
+Client information section
 
-This project is open for learning and portfolio purposes.
+👤 Author
+
+Sealtiel Maximiliano De La O Segura
+Frontend Developer (Junior)
+
+GitHub: https://github.com/SealtielMaximilianoDeLaOseGura-star
+
+📄 License
+
+This project is open-source and available under the MIT License.
