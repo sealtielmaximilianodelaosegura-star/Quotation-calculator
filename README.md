@@ -65,6 +65,8 @@ Form validation
 
 Client information section
 
+---
+
 👤 Author
 
 Sealtiel Maximiliano De La O Segura
