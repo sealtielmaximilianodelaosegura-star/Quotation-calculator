@@ -4,7 +4,6 @@ A clean, responsive **quotation calculator** built with **HTML, CSS, and JavaScr
 
 🔗 **Live Demo**  
 👉 https://sealtielmaximilianodelaosegura-star.github.io/quotation-calculator/
-
 ---
 
 ## ✨ Features
@@ -17,7 +16,6 @@ A clean, responsive **quotation calculator** built with **HTML, CSS, and JavaScr
 - 💼 Ideal for freelancers and service-based businesses  
 
 ---
-
 ## 🛠️ Built With
 
 - **HTML5** – Structure  
@@ -27,7 +25,6 @@ A clean, responsive **quotation calculator** built with **HTML, CSS, and JavaScr
 No external libraries required.
 
 ---
-
 ## 🎯 Purpose of This Project
 
 This project was created as part of a **personal portfolio** to demonstrate:
@@ -45,7 +42,6 @@ It can be adapted for:
 - Pricing estimators  
 
 ---
-
 ## 🚀 How to Use
 
 ### Online
@@ -66,7 +62,6 @@ Form validation
 Client information section
 
 ---
-
 👤 Author
 
 Sealtiel Maximiliano De La O Segura
