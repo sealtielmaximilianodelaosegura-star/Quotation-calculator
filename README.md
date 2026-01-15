@@ -53,4 +53,20 @@ It can be adapted for:
 2. Enter the required values  
 3. The total quotation updates instantly  
 
+📈 Future Improvements
+
+Export quotation to PDF
+
+Custom currency support
+
+Dark mode
+
+Form validation
+
+Client information section
+
+👤 Author
+
+Sealtiel Maximiliano De La O Segura
+
 
